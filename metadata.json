@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BFG Tax Vision Pro 2026",
+  "description": "Professional Form 1040 Individual Income Tax Return calculation software with multi-state support, planning tools, and detailed Schedule C, D, and E reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
